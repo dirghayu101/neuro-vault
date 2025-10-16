@@ -2,3 +2,5 @@ journal.ts
 node_modules
 raw-data/
 journal.json
+.env
+vector_store.json
