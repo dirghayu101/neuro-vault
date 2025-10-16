@@ -4,5 +4,6 @@ date: Date;
 source?: "whatsapp" | "pages";
 tags?: string[];
 content: string;
+title?: string;
 reflection?: string;
 }
